@@ -6,7 +6,10 @@
 
 **Languages / Tools**
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/180px-.NET_Logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425"></code>
+<code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
 
 
 **Github Stats**
