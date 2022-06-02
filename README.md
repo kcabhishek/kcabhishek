@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://img.itch.zone/aW1hZ2UvMjM4ODY2LzExNDk4NzMuZ2lm/original/q0Nc4X.gif" width="25px">
 <!--
 **kcabhishek/kcabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
