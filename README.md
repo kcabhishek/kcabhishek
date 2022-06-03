@@ -11,6 +11,9 @@
 <code><img height="20" src="https://img.favpng.com/13/23/14/c-foreach-loop-while-loop-conditional-png-favpng-LKs4HkfcdgR64TbSHhtHVD7DK.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425"></code>
 <code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
+<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
+<code><img height="20"src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"></code>
 
 
 **Github Stats**
