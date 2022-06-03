@@ -59,7 +59,7 @@
 
 <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kcabhishek&show_icons=true&theme=blue-green" alt="kcabhishek" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kcabhishek&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcabhishek" />
   </p>
 
 
