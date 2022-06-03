@@ -59,7 +59,7 @@
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kcabhishek&show_icons=true&theme=blue-green" alt="kcabhishek" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcabhishek&theme=blue-green" alt="kcabhishek2" />
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kcabhishek)](https://github.com/kcabhishek/github-readme-stats)
   </p>
 
 
