@@ -12,9 +12,18 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425"></code>
 <code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://www.seekpng.com/png/full/256-2566170_free-high-quality-sql-microsoft-sql-server-icon.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<a href="https://www.python.org" target="_blank">
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+</a>
 
 
 **Github Stats**
