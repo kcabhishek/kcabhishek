@@ -58,8 +58,7 @@
 **Github Stats**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kcabhishek&show_icons=true&theme=blue-green" alt="kcabhishek" /></p>
-  
-![](https://raw.githubusercontent.com/kcabhishek/github-stats-transparent/output/generated/overview.svg)
+<p align="right"> <img src="https://raw.githubusercontent.com/kcabhishek/github-stats-transparent/output/generated/overview.svg" alt="kcabhishek" /></p>
 ![](https://raw.githubusercontent.com/kcabhishek/github-stats-transparent/output/generated/languages.svg)
 
 
