@@ -13,7 +13,8 @@
 <code><img height="20" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"></code>
+<code><img height="20" src="https://www.seekpng.com/png/full/256-2566170_free-high-quality-sql-microsoft-sql-server-icon.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"></code>
 
 
 **Github Stats**
