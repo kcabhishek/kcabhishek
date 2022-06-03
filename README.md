@@ -57,7 +57,10 @@
 
 **Github Stats**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kcabhishek&show_icons=true&theme=blue-green" alt="kcabhishek" /></p>
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcabhishek&theme=blue-green" alt="kcabhishek" /></p>
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kcabhishek&show_icons=true&theme=blue-green" alt="kcabhishek" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcabhishek&theme=blue-green" alt="kcabhishek" />
+  </p>
+
 
 
