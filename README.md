@@ -59,5 +59,4 @@
 
 <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kcabhishek&show_icons=true&theme=blue-green" alt="kcabhishek" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcabhishek&layout=compact&theme=blue-green" />
   </p>
