@@ -1,4 +1,10 @@
 ### Hi there, I am Abhishek KC, partime explorer, fulltime coder.👋
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kcabhishek/kcabhishek/main/ascii-art.jpg">
+    <img alt="Abhishek KC's GitHub Profile README" src="https://raw.githubusercontent.com/kcabhishek/kcabhishek/main/ascii-art.jpg">
+  </picture>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=kcabhishek.kcabhishek)
 
 <img src="https://img.itch.zone/aW1hZ2UvMjM4ODY2LzExNDk4NzMuZ2lm/original/q0Nc4X.gif" width="10px">
