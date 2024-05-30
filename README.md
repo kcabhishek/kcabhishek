@@ -16,7 +16,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"></code>
 </a>
 <a href="https://www.python.org" target="_blank">
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/180px-.NET_Logo.svg.png"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/.NET#/media/File:Microsoft_.NET_logo.svg"></code>
 </a>
 <a href="https://www.python.org" target="_blank">
 <code><img height="20" src="https://img.favpng.com/13/23/14/c-foreach-loop-while-loop-conditional-png-favpng-LKs4HkfcdgR64TbSHhtHVD7DK.jpg"></code>
