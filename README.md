@@ -15,13 +15,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"></code>
 </a>
-<a href="https://www.python.org" target="_blank">
-<code><img height="20" src="https://en.wikipedia.org/wiki/.NET#/media/File:Microsoft_.NET_logo.svg"></code>
+<a href="https://learn.microsoft.com/en-us/dotnet/core/introduction?WT.mc_id=dotnet-35129-website" target="_blank">
+<code><img height="20" src="https://learn.microsoft.com/en-us/media/logos/logo_net.svg"></code>
 </a>
 <a href="https://www.python.org" target="_blank">
 <code><img height="20" src="https://img.favpng.com/13/23/14/c-foreach-loop-while-loop-conditional-png-favpng-LKs4HkfcdgR64TbSHhtHVD7DK.jpg"></code>
 </a>
-<a href="https://www.python.org" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425"></code>
 </a>
 <a href="https://jquery.com/" target="_blank">
